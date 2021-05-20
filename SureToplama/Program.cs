@@ -51,7 +51,7 @@ namespace ConsoleApp1
             }
 
             Console.WriteLine("\n----------*S*O*N*U*Ç*----------");
-            Console.WriteLine("   {0} Saat {1} Dakika {2} Saniye", saatSonuc, dakikaSonuc, saniyeSonuc);
+            Console.WriteLine("   {0} Saat {1} Dakika {2} Saniyedir.", saatSonuc, dakikaSonuc, saniyeSonuc);
             Console.ReadLine();
 
         }
